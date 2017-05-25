@@ -1,6 +1,6 @@
 ---
 title: Gabriel Peixoto de Carvalho
-layout: page
+layout: default
 ---
 
 
