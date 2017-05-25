@@ -4,6 +4,7 @@
 #site Settings
 
 title: Gabriel Peixoto de Carvalho
+permalink: /blog/:year/:month/:day/:title
 description: personal website
 email: gaburiero.c@gmail.com
 github_username: gaburiero
