@@ -10,5 +10,5 @@ github_username: gaburiero
 
 #build settings
 markdown: kramdown
-theme: mlibre 
+theme: jekyll-theme-midnight 
 #theme:jekyll-theme-hacker
