@@ -1,6 +1,7 @@
 ---
 title: Gabriel Peixoto de Carvalho
 layout: default
+permalink:/about
 ---
 # header
 
