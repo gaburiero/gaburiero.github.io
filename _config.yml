@@ -10,4 +10,5 @@ github_username: gaburiero
 
 #build settings
 markdown: kramdown
-theme: mlibre#jekyll-theme-hacker
+theme: mlibre 
+#theme:jekyll-theme-hacker
