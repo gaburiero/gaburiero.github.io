@@ -3,3 +3,5 @@
   permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-hacker
+title: Gabriel Peixoto de Carvalho
+description: personal website
