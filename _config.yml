@@ -6,6 +6,7 @@
 title: Gabriel Peixoto de Carvalho
 description: personal website
 email: gaburiero.c@gmail.com
+baseurl:gaburiero.github.io/
 github_username: gaburiero
 
 #build settings
