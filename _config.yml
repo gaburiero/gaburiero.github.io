@@ -1,7 +1,13 @@
-  name: Gabriel Peixoto de Carvalho,
-  markdown: kramdown
-  permalink: /blog/:year/:month/:day/:title
+#name: Gabriel Peixoto de Carvalho,
+#permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-hacker
+#site Settings
+
 title: Gabriel Peixoto de Carvalho
 description: personal website
+email: gaburiero.c@gmail.com
+github_username: gaburiero
+
+#build settings
+markdown: kramdown
+theme: jekyll-theme-hacker
