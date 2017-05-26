@@ -112,7 +112,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #F5F5F5;
+  color: #999999;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -228,7 +228,7 @@ img {
 }
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
-    background: #808080;
+    background: #EEEEE;
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
@@ -239,7 +239,7 @@ img {
     text-align: center;
   }  
   .navbar-custom .nav .navlinks-container:hover {
-    background: #808080;
+    background: #EEEEEE;
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;
