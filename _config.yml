@@ -28,7 +28,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Blog: "blog"
+  Blog: "blog/index"
   Resume: "cv"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -118,6 +118,8 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+#custo pagination location to /blog, main file must be index.html
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
