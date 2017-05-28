@@ -6,9 +6,12 @@ subtitle: A little information about myself
 
 # Introduction
 
-My name is gabriel Peixoto de Carvalho and I born in september 23 of 1992. I have graduated bachelor in Computer Engineering
-in the Federal University of Pará. I am currently a maste student in the Federal University of ABC.
+I have a bachelor in Computer Engineer at the Federal University of Pará (Belém, Pará, Brazil) where my focus was FPGA developing for telecommunications applications. In the Graduation Period I also spent one year at the University of Electro-Communications in Tokyo Japan as a part of exchange program sponsored by the Brazillian government, called "Science Without Borders". I am currently a Master student at Federal University of ABC where I am studying and developing applications of huma-computer interaction with gesture recognition.
+
 
 # Interests
 
-Computer vision and machine learning
+Computer vision, human-computer interaction, machine learning and gesture recognition.
+
+# Hobbies
+
